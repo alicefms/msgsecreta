@@ -1,0 +1,24 @@
+html{
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(0deg, rgba(34,102,195,1) 0%, rgba(253,45,133,1) 100%);
+    font-family: 'Lucida Sans';
+    color: blanchedalmond;
+    margin: auto;
+    
+}
+p {
+    font-size: 2em;
+    padding: 3%;
+    text-align: justify;
+}
+
